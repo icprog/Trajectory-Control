@@ -1,0 +1,2 @@
+Theta[1]	dTheta[1]	ddtheta	u[i]
+
